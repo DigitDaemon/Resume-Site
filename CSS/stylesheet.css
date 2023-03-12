@@ -3,6 +3,7 @@ html {
     background-color: #2b2b2b;
     font-size: 175%;
     margin-left: 5%;
+    margin-right: 5%;
 }
 
 h1{
@@ -15,6 +16,10 @@ h2{
 
 h3{
     color: #009AFF;
+}
+
+p {
+    color: #4a7896;
 }
 
 iframe{
