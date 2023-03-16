@@ -19,7 +19,7 @@ h3{
 }
 
 p {
-    color: #4a7896;
+    color: #d1a41d;
 }
 
 iframe{
@@ -27,3 +27,15 @@ iframe{
     width: 90%;
     margin-left: 5%;
 }
+
+object{
+	height: 675px;
+    width: 90%;
+    margin-left: 5%;
+}
+
+embed{
+	height: 675px;
+    width: 90%;
+    margin-left: 5%;
+{
