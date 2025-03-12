@@ -44,3 +44,15 @@ embed {
     margin: auto;
     max-width: 800px;
 }
+
+a:link{
+    color: #f5de69;
+}
+
+a:hover{
+    color: #fcec9a;
+}
+
+a:visited{
+    color: #50317a;
+}
