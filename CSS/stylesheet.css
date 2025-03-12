@@ -34,8 +34,13 @@ object{
     margin-left: 5%;
 }
 
-embed{
-	height: 675px;
+embed {
+    height: 675px;
     width: 90%;
     margin-left: 5%;
-{
+}
+
+.container{ 
+    margin: auto;
+    max-width: 800px;
+}
